@@ -48,10 +48,7 @@ smart_kharcha
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
-
-git clone https://github.com/utkarsh465/smart_kharcha.git
-
+### 1️⃣ Clone the repoistory
 ### 2️⃣ Go to project folder
 
 cd smart_kharcha
