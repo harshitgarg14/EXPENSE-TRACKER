@@ -83,9 +83,7 @@ npm run dev
 
 ---
 
-## 👨‍💻 Author
 
-Utkarsh Raj
 
 ---
 
